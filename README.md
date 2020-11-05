@@ -52,7 +52,7 @@ Table 2:
 Credits
 -------
 
-This demonstration application made use of [Volodymyr Shymanskyy's](https://github.com/vshymanskyy) class to interface with the NFC reader Module MFRC522 on the Raspberry Pi. It can be found [here](https://github.com/vshymanskyy/blynk-library-python)
+This demonstration application made use of [Volodymyr Shymanskyy's](https://github.com/vshymanskyy) python blynk library. It can be found [here](https://github.com/vshymanskyy/blynk-library-python)
 
 Contributors
 ------------
