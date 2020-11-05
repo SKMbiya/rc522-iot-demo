@@ -32,6 +32,7 @@ Table 1:
 | GND  | Any   | Any Ground |
 | RST  | 22    | GPIO25     |
 | 3.3V | 1     | 3V3        |
+
 [Source](https://github.com/mxgxw/MFRC522-python/blob/master/README.md)
 
 Table 2:
