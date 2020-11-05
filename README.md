@@ -6,7 +6,7 @@ A demonstration application that makes use of the rc522-iot API to interface wit
 Requirements
 --------
 This code requires you to install the Blynk python library and can be done by running the following command ``pip install blynk-library-python``
-You also need to copy the rc522_iot API module into your working directory and then import the rc522_iot API module to at the top of your script. It can be found and cloned [here](https://github.com/SKMbiya/rc522-iot).
+You also need to copy the rc522_iot API module into your working directory and then import the rc522_iot API module at the top of your script. It can be found and cloned [here](https://github.com/SKMbiya/rc522-iot).
 It is also recommended that you make use of a python virtual environment before installing the libraries, by making use of tools such as venv or virtualenv.
 
 Usage
