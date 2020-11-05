@@ -1,7 +1,7 @@
 rc522-iot-demo
 ==============
 
-A demonstration application that makes use of the rc522-iot API to interface with the mfrc522 RFID card reader
+A demonstration application that makes use of the rc522-iot API to interface with the mfrc522 RFID card reader and a Raspberry Pi Zero W
 
 Requirements
 --------
