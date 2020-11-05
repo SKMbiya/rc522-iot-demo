@@ -13,11 +13,11 @@ Usage
 --------
 
 To use the demonstration application you would need to do the following:
-* Install the Blynk Android or iOS mobile application
+* Install the Blynk Android or iOS mobile application and create a new project
 * Design your application as below:\
 [Blynk mobile application layout](https://imgur.com/Qaw9UDV)
 * Configure the virtual pins of the application components as follows as described in Table 1
-* Enter the authenication code sent to you by Blynk in line 8 of the .py script
+* Enter the authentication code sent to you by Blynk via email in line 8 of the .py script
 * Run the rc522_iot.py file in your terminal to start the Blynk server
 
 Table 1:
