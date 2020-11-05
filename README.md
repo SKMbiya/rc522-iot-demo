@@ -20,6 +20,7 @@ To use the demonstration application you would need to do the following:
 * Enter the authenication code sent to you by Blynk in line 8 of the .py script
 * Run the rc522_iot.py file in your terminal to start the Blynk server
 
+Table 1:
 | Name | Component Type | Virtual Pin #  |
 |:------:|:-------:|:------------:|
 | SPI | Styled Switch Button | 2 |
